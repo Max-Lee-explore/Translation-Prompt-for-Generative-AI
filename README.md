@@ -81,7 +81,7 @@ Return the output in the following XML-tagged format. The initial translation, e
 {revised_final_translation_from_step_3}
 </FINAL_TRANSLATION>
 
-Translation Source Text:
+## Translation Source Text
 
 <SOURCE_TEXT>
 {source_text}
