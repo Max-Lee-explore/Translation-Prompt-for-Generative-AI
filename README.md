@@ -97,11 +97,4 @@ Return the output in the following XML-tagged format. The initial translation, e
 3. Submit to your preferred AI translation model
 4. The AI will return a structured response with draft translation, expert suggestions, and final translation
 
-## Credits
-
-- **Max Lee**: Personal translation experience and university teaching
-- **DeepLearning.AI**: ChatGPT Prompt Engineering for Developers (Isa Fulford & Andrew Ng)
-- **Andrew Ng**: Translation Agent: Agentic Translation Using Reflection Workflow
-- **@dotey**: AI practitioner on X.com for practical techniques
-
 ---
